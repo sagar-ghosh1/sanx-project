@@ -14,7 +14,10 @@ const Banner = () => {
             {/* banner text section  */}
             <div>
               <p className="text-[#FFF4E7] font-gagalin xl:text-[90px] lg:leading-[90px] lg:tracking-[2.7px]">Welcome to</p>
-              <p className="bg-gradient-to-r from-green-400 to-blue-500 xl:text-[140px] lg:leading-[150px] lg:tracking-[4.2px]">snax coin</p>
+              <p className="bg-gradient-to-r from-green-400 to-blue-500 xl:text-[140px] lg:leading-[150px] lg:tracking-[3.8px]">snax coin</p>
+              <p className="text-[#CED9D7] font-gagalin lg:text-[28px] lg:leading-[44.8px] lg:tracking-[1.12px]">the crypto sensation inspired by the tale of <br /> a savvy pup!"</p>
+
+              <Button className="bg-gradient-to-l from-[#F8B515] to-[#0FC1C7] hover:from-[#f5f914bb] hover:to-[#19c4e2bb] uppercase text-[#000] text-[20px] font-normal leading-[30px] tracking-[0.8px] py-4 px-[50px] rounded-[10px] duration-300">CONNECT</Button>
             </div>
 
           </div>

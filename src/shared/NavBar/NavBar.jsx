@@ -63,8 +63,8 @@ const NavBar = () => {
               </div>
             </ul>
 
-            <div className="md:block hidden p-[1px] bg-gradient-to-l from-[#f2f817] to-[#1bc5df] rounded-[10px]">
-              <Button className="bg-gradient-to-l from-[#F8B515] to-[#0FC1C7] hover:from-[#f5f914bb] hover:to-[#19c4e2bb] uppercase text-[#000] text-[16px] font-normal leading-[30px] tracking-[0.8px] rounded-[10px] duration-300">CONNECT</Button>
+            <div className="md:block hidden rounded-[10px]">
+              <Button className="bg-gradient-to-l from-[#F8B515] to-[#0FC1C7] hover:from-[#f5f914bb] hover:to-[#19c4e2bb] uppercase text-[#000] text-[20px] font-normal leading-[30px] tracking-[0.8px] py-4 px-[50px] rounded-[10px] duration-300">CONNECT</Button>
             </div>
           </div>
         </div>
